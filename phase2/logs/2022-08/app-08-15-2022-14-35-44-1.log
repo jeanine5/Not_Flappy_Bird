@@ -1,0 +1,17 @@
+2022-08-15 14:35:52,210 INFO G.PlayGame [main] New GameManagerObserver has been created
+2022-08-15 14:35:52,213 INFO G.GameBoard [main] Initializing GameBoard
+2022-08-15 14:35:52,223 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-15 14:35:52,223 INFO G.GameBoard [main] randomize obstacles initiated
+2022-08-15 14:35:52,223 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-15 14:35:52,223 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-15 14:35:52,223 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-15 14:35:52,223 INFO G.GameBoard [main] randomize obstacles completed
+2022-08-15 14:35:52,224 INFO G.GameBoard [main] GameBoard instance created
+2022-08-15 14:35:52,224 INFO G.GameBoard [main] Initializing GameBoard
+2022-08-15 14:35:52,224 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-15 14:35:52,224 INFO G.GameBoard [main] randomize obstacles initiated
+2022-08-15 14:35:52,224 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-15 14:35:52,224 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-15 14:35:52,224 INFO G.Obstacle [main] New instance of obstacle created in the back end.
+2022-08-15 14:35:52,224 INFO G.GameBoard [main] randomize obstacles completed
+2022-08-15 14:35:52,224 INFO G.GameBoard [main] GameBoard instance created

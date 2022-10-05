@@ -1,0 +1,65 @@
+2022-08-10 00:12:35,059 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-10 00:12:35,066 INFO G.GameBoard [main] Gameboard instance created
+2022-08-10 00:12:35,068 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-10 00:12:35,068 INFO G.GameBoard [main] Gameboard instance created
+2022-08-10 00:12:35,081 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-10 00:12:35,081 INFO G.GameBoard [main] Gameboard instance created
+2022-08-10 00:12:40,105 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-10 00:12:40,105 INFO G.GameBoard [main] Gameboard instance created
+2022-08-10 00:12:45,110 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-10 00:12:45,110 INFO G.GameBoard [main] Gameboard instance created
+2022-08-10 00:12:45,112 INFO G.Reward [main] Reward has been initialized
+2022-08-10 00:12:50,128 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,131 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,136 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,137 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,142 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,143 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,149 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,150 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,156 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,158 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,175 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,179 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,181 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,188 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-10 00:12:50,189 INFO G.GameBoard [main] Gameboard instance created
+2022-08-10 00:12:50,201 INFO G.GameBoard [main] Initializing Gameboard
+2022-08-10 00:12:50,201 INFO G.GameBoard [main] Gameboard instance created
+2022-08-10 00:12:50,202 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,203 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,206 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,206 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,207 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,209 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,209 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,211 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,211 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,213 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,214 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,215 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,216 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,218 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,218 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,219 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,219 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,219 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,221 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,221 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,221 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,221 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,223 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,223 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,223 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,223 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,223 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,225 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,226 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,226 INFO G.Reward [Time-limited test] Reward has been initialized
+2022-08-10 00:12:50,228 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,228 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,230 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,231 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,233 INFO G.GameBoard [Time-limited test] Initializing Gameboard
+2022-08-10 00:12:50,233 INFO G.GameBoard [Time-limited test] Gameboard instance created
+2022-08-10 00:12:50,233 INFO G.Reward [Time-limited test] Reward has been initialized

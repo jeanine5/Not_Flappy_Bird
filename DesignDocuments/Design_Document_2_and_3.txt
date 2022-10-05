@@ -1,0 +1,43 @@
+Yanming - Implemented the singleton design pattern for Leaderboard to allow for global access to it from the other
+classes. Based on Phase 1 feedback, we wanted to ensure that the Leaderboard class followed Single Responsibility, yet
+make our map non-static. So by implementing the Singleton design pattern, we could make the single instance of the
+Leaderboard static. Therefore, the map would stay the same during the run of the program
+
+Liubov - I decided to use the Observer design pattern to connect the GUI to the backend. The problem that we needed
+to solve was that we had to make sure that every time objects were added, moved or removed from the game board, these
+changes were reflected in the GUI. I think that the Observer design pattern fit our case perfectly because we were able
+to preserve clean architecture without having to create an interface for the GUi so that lower-level classes could call
+its methods. Observer pattern also ensured that our use cases GameManager and GameBoard (observable objects) adhere to
+the Single Responsibility Principle because they are now only concerned with managing the objects on the game board and
+don't have to call GUI methods to pass the information about these objects to the front-end. We have also created two
+observer classes called GameManagerObserver and GameBoardObserver. They're each added to the list of observers of their
+respective use case classes and when they receive updates from the use cases, they decide which GUI methods to call to
+update it according to the changes in the backend.
+
+Jeanine - When making first major edit to the initial GUI we had established from Phase 1, I and the others
+working on the GUI, decided to make the backend control the actions on the GUI. We had an option to allow for the
+opposite to happen, but logically, it did not make much sense for us to do that. This made our code more readable and
+made the tests easier to understand because since our backend controls our frontend, if one of our backend tests fails,
+we know that our frontend will result in an error as well. Also made the design decision to make the GUI obstacle create
+new Rectangle objects so that we didn't violate Clean Architecture by create new entity Obstacle objects.
+
+Nathaniel - Since phase 1, Login has been refactored to follow SOLID guidelines much more closely than before. To show
+this, LoginCommand and Login (from phase 1) has been split into:
+CheckInfo (Validates info for both new accounts and old accounts), LoginInfo (splits then stores data),
+LoginLinesCreate (enum that holds String response for each enum when creating a new account),
+LoginLinesOld (enum that holds String response for each enum when logging in to an old account),
+LoginLinesInterface (interface for previous two enums),
+LoginCreate (Processor for creating a new account),
+LoginOld (processor for logging in to an old account),
+LoginPathways (interface for the previous two),
+LoginCommander (head of Login, talks to Main to delegate tasks)
+LoginReader (reads and writes to userdata.txt)
+LoginStart (Starts the program by using LoginReader to recreate users in userdata.txt)
+LoginState (Controls the state of the program).
+
+I also attempted to implement both the Builder design pattern and the Factory method design pattern, however I ended up
+realizing that the Builder design pattern was too much for our program, as there are only really 2 ways the program can
+go. For the Factory method design pattern, I did not fully implement the pattern, however I took inspiration for it,
+creating an interface that has two classes behind it (LoginPathway). Although I did not fully implement them, the
+builder pattern helped me recognize the actual problem I had, and the Factory method gave me ideas as to how I can
+implement a more SOLID design.

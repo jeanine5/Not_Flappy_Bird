@@ -1,0 +1,20 @@
+Our program is equitable in use. The program runs on all computers and laptops, not matter the model. All users and
+players see the same program when the program is run. The design of the game is very appealing through the use of
+bright colors and very simple instructions. Unfortunately, due to the nature of the game, we can't allow for multiple
+ways to play the game or accommodate for the users accuracy and precision since we are mirroring Flappy Bird. However,
+the program is flexible in use because we provide adaptability to the user's pace since the game doesn't speed up as you
+go on unlike the original Flappy Bird. Our program is very simple to use, from basic instructions to create an account
+to playing the game that only uses the up key and the down key. If the user presses the up key, the "bird" moves and
+with similar action for the down key. If the user makes an error while logging in, the program will alert the user they
+have made a mistake and to try again. To accommodate for a wide range of literacy and language skills, we used very
+basic and clear sentences so user error is low. We also provide a "How to play" option for the user before the start of
+the game. This is how our program fulfills the Simple and Intuitive Use universal design. By changing our menu options
+from a terminal display to being presented as a GUI, we've allowed information for the user to read and choose from to
+be more perceptible. We used pictorial presentation for the essential information to run the game and all other options.
+To satisfy Tolerance for Error universal design pattern, in our login instructions, we stated the minimum and maximum
+length for username and passwords to ensure every new user is unique is our database of usernames and passwords.
+Otherwise, there would multiple users with the same information which would make login more error-prone. There is very
+low physical effort involved in entire program. Though it must be done at a computer, you sit, stand or lay back while
+playing the game. The only repetitive action is in the keys used for the game, but there is no guarantee you'll perform
+the same keystrokes each time you run the game. This is how our is acquires the Low Physical Effort and Size and Space
+for Approach and Use universal design pattern.

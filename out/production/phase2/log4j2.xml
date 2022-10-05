@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info" name="MyApp" packages="">
+<Appenders>
+  <RollingFile name="BirdLogs" fileName="phase2/logs/notflappybird.log"
+               filePattern="phase2/logs/$${date:yyyy-MM}/app-%d{MM-dd-yyyy-HH-mm-ss}-%i.log">
+    <PatternLayout>
+      <Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+    </PatternLayout>
+    <Policies>
+      <OnStartupTriggeringPolicy />
+      <SizeBasedTriggeringPolicy size="250 MB"/>
+    </Policies>
+    <DefaultRolloverStrategy max="20"/>
+  </RollingFile>
+</Appenders>
+<Loggers>
+  <Root level="info">
+    <AppenderRef ref="BirdLogs"/>
+  </Root>
+</Loggers>
+</Configuration>
+
+<!-- got the template for this from the log4j2 documentation here: https://logging.apache.org/log4j/2.x/manual/appenders.html -->
